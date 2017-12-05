@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="tripbd">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="C:\Users\Administrator\Desktop\tripbd\tripbd\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 10" modules="sqarkstreaming">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="C:\Users\Administrator\Desktop\tripbd\tripbd\warehouse\sqarkstreaming\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 2" modules="common">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="C:\Users\Administrator\Desktop\tripbd\tripbd\common\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 3" modules="sqoop">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="C:\Users\Administrator\Desktop\tripbd\tripbd\collector\sqoop\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 4" modules="warehouse">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="C:\Users\Administrator\Desktop\tripbd\tripbd\warehouse\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 5" modules="bi">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="C:\Users\Administrator\Desktop\tripbd\tripbd\bi\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 6" modules="hive">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="C:\Users\Administrator\Desktop\tripbd\tripbd\warehouse\hive\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 7" modules="flume">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="C:\Users\Administrator\Desktop\tripbd\tripbd\collector\flume\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 8" modules="collector">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="C:\Users\Administrator\Desktop\tripbd\tripbd\collector\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+    <profile name="Maven 9" modules="crawler">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="C:\Users\Administrator\Desktop\tripbd\tripbd\collector\crawler\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+  </component>
+</project>
